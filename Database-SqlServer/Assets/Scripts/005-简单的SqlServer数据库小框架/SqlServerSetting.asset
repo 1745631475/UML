@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59cdfdcb2315b2145be41328d70313f0, type: 3}
   m_Name: SqlServerSetting
   m_EditorClassIdentifier: 
-  sqlServerConfigs: []
+  isAutoOpen: 0
+  sqlServerConfigs:
+  - id: 0
+    server: 
+    databaseName: 
+    userId: 
+    password: 
